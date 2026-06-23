@@ -23,6 +23,14 @@
 
 ---
 
+<img width="1464" height="890" alt="image" src="https://github.com/user-attachments/assets/9fb535bc-297e-4e44-a989-bbeb3b073691" />
+
+<img width="1464" height="890" alt="image" src="https://github.com/user-attachments/assets/f3f06dee-e57a-4184-8cff-1f83dbae01fb" />
+
+<img width="1464" height="890" alt="image" src="https://github.com/user-attachments/assets/65a069d8-2339-4d07-b04e-7c6388786fda" />
+
+---
+
 ## ✨ About
 
 This website serves as a **visual, interactive documentation platform** for the [C-Programming-and-DSA](https://github.com/rhalbhavi/C-Programming-and-DSA) repository. Instead of browsing raw files on GitHub, you get:
