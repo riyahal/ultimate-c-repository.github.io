@@ -17,7 +17,7 @@
 
 ---
 
-## 🔗 Live Site — [GitHub Pages](https://rhalbhavi.github.io/ultimate-c-repository)
+## 🔗 Live Site — [GitHub Pages](https://rhalbhavi.github.io/ultimate-c-repository.github.io/)
 
 - **Source Repository** — [github.com/rhalbhavi/C-Programming-and-DSA](https://github.com/rhalbhavi/C-Programming-and-DSA)
 
